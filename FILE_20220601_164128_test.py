@@ -881,7 +881,6 @@ def tools():
     stdout.write("\n")
 ##############################################################################################
 def title():
-             _|/             /                 \n")
     stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"to thich cau             \n")
     stdout.write("                                 "+Fore.LIGHTCYAN_EX   +"cau lam nguoi yeu to nhe              \n")
     stdout.write("             "+Fore.LIGHTCYAN_EX            +"        ══╦═════════════════════════════════╦══\n")
